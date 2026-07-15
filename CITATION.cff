@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you cite or discuss LUMEN, please contact the authors for the current citation."
+title: "LUMEN: An AI-delivered behavioral interview for pathological narcissism"
+authors:
+  - family-names: Shaikh
+    given-names: Imad
+  - family-names: Ortiz
+    given-names: Nikolai
+  - family-names: Xi
+    given-names: Muchen
+  - family-names: Sun
+    given-names: Tianjun
+date-released: "2026-07-15"
+repository-code: "https://github.com/imadshaikhx/lumen-supplement"
+url: "https://imadshaikhx.github.io/lumen-supplement/"
